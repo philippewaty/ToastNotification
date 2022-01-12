@@ -1,6 +1,11 @@
 # ToastNotification
 Show an android style toast notification in Windows Form.
 
+[![](https://img.shields.io/github/license/philippewaty/ToastNotification.svg?style=flat-square)](https://github.com/philippewaty/ToastNotification/blob/master/LICENSE)
+[![](https://img.shields.io/github/commit-activity/y/philippewaty/ToastNotification.svg?style=flat-square)](https://github.com/philippewaty/ToastNotification/commits/master)
+[![](https://img.shields.io/github/issues/philippewaty/ToastNotification.svg?style=flat-square)](https://github.com/philippewaty/ToastNotification/issues)
+[![Release](https://img.shields.io/github/release/philippewaty/ToastNotification.svg?style=flat-square)](https://github.com/philippewaty/ToastNotification/releases)
+
 Dependencies :
 Framework 4.5
 
